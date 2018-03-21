@@ -12,7 +12,7 @@ class Dog
     @@all.each{|dog| puts dog}
   end
 
-  end
+end
 
 
 
